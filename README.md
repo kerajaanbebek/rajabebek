@@ -6,7 +6,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ## GitHub stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rajabebek&count_private=true&hide_title=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=httpsecure&count_private=true&hide_title=true)
 
 ### 🧰 Languages and Tools
 
